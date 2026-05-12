@@ -1,115 +1,299 @@
-<h1 align="center">Hi 👋, I'm Ankit Maurya</h1>
-<h3 align="center">Frontend Developer | React | ERP Dashboards | UI Engineering</h3>
+<h1 align="center">Hey 👋, I'm Ankit Maurya</h1>
+
+<h3 align="center">
+Frontend Engineer • React Ecosystem • ERP Systems • UI Architecture
+</h3>
+
+<p align="center">
+Building scalable dashboards, enterprise platforms & modern web experiences.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ankit-maurya2000" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:mauryankit2615@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://ankitportfolio.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Ankit100720000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👨‍💻 Frontend Developer with **3+ years of experience**
-- 🏢 Currently working at **Science Olympiad Foundation (SOF)**
-- 🧠 Specialized in **React, ERP Dashboards, CRM Systems**
-- 🎨 Strong focus on **UI/UX, Performance & Animations**
-- 🚀 Delivered **25+ production-ready projects**
-- 🔄 Expert in **Figma → Pixel Perfect Code**
+# 💫 About Me
 
----
+```javascript
+const ankit = {
+  role: "Frontend Engineer",
+  experience: "3+ Years",
+  company: "Science Olympiad Foundation (SOF)",
+  specialization: [
+    "React Applications",
+    "ERP Dashboards",
+    "CRM Systems",
+    "UI Engineering",
+    "Frontend Architecture"
+  ],
 
-## 💻 Tech Stack
+  techStack: {
+    frontend: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js"
+    ],
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+    styling: [
+      "Tailwind CSS",
+      "Bootstrap",
+      "Chakra UI",
+      "Radix UI"
+    ],
 
-### UI / Styling
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/chakra-4ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix_ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+    animation: [
+      "GSAP",
+      "Framer Motion",
+      "Chart.js",
+      "Highcharts"
+    ],
 
-### Animation & Charts
-![GSAP](https://img.shields.io/badge/GSAP-88CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Highcharts](https://img.shields.io/badge/highcharts-000000.svg?style=for-the-badge)
+    backend: [
+      "Node.js",
+      "FastAPI",
+      "MongoDB",
+      "MySQL"
+    ]
+  },
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  currentFocus: [
+    "Scalable Frontend Systems",
+    "Reusable Component Libraries",
+    "ERP Dashboards",
+    "Performance Optimization",
+    "AI Assisted Development"
+  ],
 
----
-
-## 🧑‍💼 Professional Experience
-
-**Frontend Developer – Science Olympiad Foundation (SOF)**  
-📍 Gurugram | 🗓️ Mar 2025 – Present  
-
-- Built enterprise **ERP dashboards (CRM, PMS, Finance, Logistics)**
-- Created **30+ reusable React components**
-- Implemented **real-time charts & analytics**
-- Improved performance by **25%**
-
----
-
-## 🚀 Major Projects
-
-- **Enterprise ERP Dashboard (Concept)**  
-  CRM, Finance, Logistics, WMS, PMS with analytics
-
-- **Futtkr E-Billing** – https://www.futtkr.com  
-- **Kolkata Couture Expo** – https://kolkatacoutureexpo.com  
-- **Kolkata Fashion Expo** – https://kolkatafashionexpo.org  
-- **Kolkata Fabric Expo** – https://www.kolkatafabricexpo.com  
-- **Khazana Sarees** – https://www.khazanasarees.com  
+  funFact: "I turn Figma designs into pixel-perfect production apps 🚀"
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit100720000&show_icons=true&theme=dark"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ankit100720000&theme=dark"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit100720000&layout=compact&theme=dark"/>
+- ⚡ Build enterprise-grade ERP & CRM systems
+- 🎯 Develop scalable React.js applications
+- 🎨 Create smooth modern UI/UX experiences
+- 📊 Build real-time analytics dashboards
+- 🔥 Design reusable frontend architectures
+- 🤖 Use GenAI & AI-assisted development workflows
+- 📱 Optimize performance, SEO & accessibility
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎨 UI / Styling
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankit100720000&theme=radical&margin-w=15"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge"/>
 </p>
 
 ---
 
-## ✍️ Dev Quote
+## ✨ Animation & Charts
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<p>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Highcharts-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👀 Profile Views
+## ⚙ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+---
+
+## 🧰 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
+
+---
+
+# 🧑‍💼 Professional Experience
+
+## 🚀 Frontend Developer — Science Olympiad Foundation (SOF)
+
+📍 Gurugram • 🗓️ Mar 2025 — Present
+
+### Key Contributions
+
+- Built scalable enterprise ERP systems with multiple business modules
+- Developed reusable React component architecture
+- Created analytics dashboards & reporting systems
+- Improved frontend performance & maintainability
+- Worked on CRM, LMS, HRMS, Finance & Logistics modules
+- Integrated REST APIs & optimized workflows
+- Built real-time chart systems & admin dashboards
+- Collaborated with backend & product teams
+
+---
+
+# 🏆 Featured Projects
+
+## 🧩 Enterprise ERP Dashboard
+
+> CRM • HRMS • LMS • Finance • Logistics • Analytics
+
+### Features
+
+- Multi-module enterprise architecture
+- Role-based dashboards
+- Real-time analytics
+- Advanced reporting systems
+- Scalable UI structure
+- Reusable component system
+
+---
+
+# 🌐 Production Projects
+
+| Project | Live URL |
+|---|---|
+| Futtkr E-Billing | https://www.futtkr.com |
+| Kolkata Couture Expo | https://kolkatacoutureexpo.com |
+| Kolkata Fashion Expo | https://kolkatafashionexpo.org |
+| Kolkata Fabric Expo | https://www.kolkatafabricexpo.com |
+| Khazana Sarees | https://www.khazanasarees.com |
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ankit100720000&icon=0&color=0"/>
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Ankit100720000&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit100720000&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=Ankit100720000&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Ankit100720000&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# 📌 Current Focus
+
+```txt
+⚡ Advanced React Architecture
+⚡ Enterprise ERP Platforms
+⚡ AI-powered Web Applications
+⚡ Reusable Component Systems
+⚡ Performance Optimization
+⚡ Scalable Dashboard Engineering
+```
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit100720000&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+  <a href="mailto:mauryankit2615@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge"/>
+  </a>
+
+  <a href="https://linkedin.com/in/ankit-maurya2000">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/Ankit100720000">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/>
+  </a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ankit100720000&icon=5&color=6"/>
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<h3 align="center">
+🚀 Building scalable frontend systems with clean UI & real-world impact
+</h3>
