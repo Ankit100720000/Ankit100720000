@@ -28,7 +28,13 @@ Building scalable dashboards, enterprise platforms & modern web experiences.
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="350"
+    alt="coding"
+  />
+</p>
 
 # 💫 About Me
 
@@ -37,6 +43,7 @@ const ankit = {
   role: "Frontend Engineer",
   experience: "3+ Years",
   company: "Science Olympiad Foundation (SOF)",
+
   specialization: [
     "React Applications",
     "ERP Dashboards",
@@ -95,11 +102,11 @@ const ankit = {
 
 - ⚡ Build enterprise-grade ERP & CRM systems
 - 🎯 Develop scalable React.js applications
-- 🎨 Create smooth modern UI/UX experiences
-- 📊 Build real-time analytics dashboards
+- 🎨 Create modern UI/UX experiences
+- 📊 Build analytics dashboards & reporting systems
 - 🔥 Design reusable frontend architectures
-- 🤖 Use GenAI & AI-assisted development workflows
-- 📱 Optimize performance, SEO & accessibility
+- 🤖 Use AI-assisted development workflows
+- 📱 Optimize performance, accessibility & SEO
 
 ---
 
@@ -237,6 +244,15 @@ const ankit = {
 
 ---
 
+# 📊 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit100720000&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 # 📌 Current Focus
 
 ```txt
@@ -245,16 +261,8 @@ const ankit = {
 ⚡ AI-powered Web Applications
 ⚡ Reusable Component Systems
 ⚡ Performance Optimization
-⚡ Scalable Dashboard Engineering
+⚡ Dashboard Engineering
 ```
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit100720000&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
